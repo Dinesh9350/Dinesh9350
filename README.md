@@ -1,17 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dinesh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [FoodieHub](https://foodiehubonline.netlify.app/)
-
-- 🌱 I’m currently learning **React.js**
-
-- 👨‍💻 All of my projects are available at [https://dinesh9350.netlify.app/](https://dinesh9350.netlify.app/)
-
-- 💬 Ask me about **Html, Css, Js, Bootstrap, Tailwind**
-
-- 📫 How to reach me **dineshsingh9350@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FUAVqVbd17smCicB4i55qVWV8AniC1Jh/view?usp=sharing](https://drive.google.com/file/d/1FUAVqVbd17smCicB4i55qVWV8AniC1Jh/view?usp=sharing)
+- 👨‍💻 **Portfolio:** [https://dinesh9350.netlify.app/](https://dinesh9350.netlify.app/)
+- 📄 **Resume:** [https://drive.google.com/file/d/1FUAVqVbd17smCicB4i55qVWV8AniC1Jh/view?usp=sharing](https://drive.google.com/file/d/1FUAVqVbd17smCicB4i55qVWV8AniC1Jh/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
