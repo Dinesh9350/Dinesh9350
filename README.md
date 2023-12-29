@@ -1,9 +1,6 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
 
-### <div align="center">I'm Dinesh, a front-end web developer with broad experience in HTML, CSS, Javascript and React.</div>  
+
+### <div align="center"><h3>I'm Dinesh, a front-end web developer with broad experience in HTML, CSS, Javascript and React.<h3/></div>  
   
 
 - **Resume: https://drive.google.com/file/d/1FUAVqVbd17smCicB4i55qVWV8AniC1Jh/view?usp=sharing**  
