@@ -3,7 +3,7 @@
 # 👨‍💻 Dinesh Singh
 ### Frontend Engineer · React.js & Next.js Specialist · Fintech Systems
 
-[![Portfolio](https://img.shields.io/badge/LIVE_PORTFOLIO-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dineshsingh-portfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/LIVE_PORTFOLIO-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dineshsinghdev.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dinesh-singh3)
 [![Email](https://img.shields.io/badge/EMAIL_ME-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dineshsingh9350@gmail.com)
 
@@ -94,7 +94,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/dineshsingh--portfolio.netlify.app-0e1015?style=flat-square&logo=googlechrome&logoColor=38bdf8)](https://dineshsingh-portfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/dineshsinghdev.netlify.app-0e1015?style=flat-square&logo=googlechrome&logoColor=38bdf8)](https://dineshsinghdev.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dinesh--singh3-0e1015?style=flat-square&logo=linkedin&logoColor=0077b5)](https://linkedin.com/in/dinesh-singh3)
 [![Email](https://img.shields.io/badge/Email-dineshsingh9350@gmail.com-0e1015?style=flat-square&logo=gmail&logoColor=ea4335)](mailto:dineshsingh9350@gmail.com)
 
